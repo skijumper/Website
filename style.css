@@ -10,6 +10,10 @@ h2{
   color: orange;
 }
 
+h3{
+  color: green;
+}
+
 body{
   margin:auto;
   max-width:500px;
