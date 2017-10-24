@@ -4,14 +4,17 @@ p {
 }
 h1{
   color: red;
+  font-family: Cooper Std Black;
 
 }
 h2{
   color: orange;
+  font-family: Lucida Handwriting;
 }
 
 h3{
   color: green;
+  font-family: Adobe Heiti Std R;
 }
 
 body{
