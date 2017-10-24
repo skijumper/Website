@@ -9,3 +9,8 @@ h1{
 h2{
   color: orange;
 }
+
+body{
+  margin:auto;
+  max-width:500px;
+}
